@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- return{itemName: item, }
+ return{itemName: item, itemprice:}
 }
 
 function viewCart() {
